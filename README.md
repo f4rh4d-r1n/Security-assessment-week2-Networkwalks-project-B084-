@@ -193,7 +193,7 @@ This project provided practical experience with information gathering, DNS enume
 - **Project:** Security Assessment – Week 2
 - **Project identifier:** Networkwalks – B084
 - **Platform:** Kali Linux
-- **Assessment window shown in evidence:** 10–11 November 2026
+- **Assessment window shown in evidence:** 11–12 November 2026
 - **Focus:** Cybersecurity reconnaissance and network discovery
 
 ---
